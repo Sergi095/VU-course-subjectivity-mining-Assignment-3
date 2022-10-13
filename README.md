@@ -4,7 +4,7 @@ This project was developed by:
 
 [@Sergi095](https://www.github.com/Sergi095) \
 [@geraskinskaya](https://www.github.com/geraskinskaya) \
-[@user](https://www.github.com/user)
+[@ChristopheMeijer](https://www.github.com/ChristopheMeijer)
 
 For the course Subjectivity Mining at the Vrije Universiteit Amsterdam (VU) Fall 2022. The goal of this assignment to automatically classify hateful speech with Machine Learning algorithms.
 
