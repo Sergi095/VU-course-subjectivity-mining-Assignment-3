@@ -14,5 +14,5 @@ Part of the code used in this project was provided by the lecturers of this cour
 
 # Notebooks
 
-The Jupyter Notebook named "experiments" contains the experiments described in the report. The Colab Notebook named "BERT_ROBERT_colab" has the experiments with these models.
+The Jupyter Notebook named "experiments" contains the experiments described in the report. The Colab Notebook named "BERT_ROBERT_colab" has the experiments with these models. The way to properly run this notebook is by creating an evironment in Python=3.7 and installing all dependencies in requirenments.txt.
 
